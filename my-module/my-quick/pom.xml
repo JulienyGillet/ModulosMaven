@@ -9,8 +9,9 @@
   <version>1.0-SNAPSHOT</version>
   <parent>
   <groupId>esliceu.jgillet.modul</groupId>
-  <artifactId>my-modul</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <artifactId>my-module</artifactId>
+  <relativePath>../pom.xml</relativePath>
+  <version>1.0-SNAPSHOT</version>
   </parent>
   <name>my-quick</name>
   <!-- FIXME change it to the project's website -->
